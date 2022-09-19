@@ -1,5 +1,5 @@
 # ChessSiege
-*v0.1.0 ChessSiege
+* v0.1.0 ChessSiege
 
 * Release: July 2023
 * Developed using Unity
